@@ -4,14 +4,14 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "loadash": "^1.0.0",
     "lodash": "^4.17.4",
+    "moment": "^2.19.1",
     "react": "^16.0.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Rayon Hunte",
   "license": "ISC"
 }

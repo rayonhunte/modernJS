@@ -1,0 +1,27 @@
+{
+  "name": "example2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/babel src-scripts --source-maps-inline --out-dir public/scripts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayonhunte/modernJS.git"
+  },
+  "author": "Rayon Hunte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayonhunte/modernJS/issues"
+  },
+  "homepage": "https://github.com/rayonhunte/modernJS#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0"
+  },
+  "devDependencies": {
+    "bower": "^1.8.2"
+  }
+}

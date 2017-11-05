@@ -1,0 +1,23 @@
+{
+  "name": "example2",
+  "version": "1.0.0",
+  "description": "course work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "styles": "lessc --source-map-map-inline site.less site.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayonhunte/modernJS.git"
+  },
+  "author": "Rayon Hunte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayonhunte/modernJS/issues"
+  },
+  "homepage": "https://github.com/rayonhunte/modernJS#readme",
+  "devDependencies": {
+    "less": "^2.7.3"
+  }
+}
